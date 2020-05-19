@@ -1,0 +1,23 @@
+
+body {
+  padding-top: 100px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-size: 1.2em;
+}
+.active>.nav-link {
+  color: hotpink !important;
+}
+
+.navbar-brand {
+  font-size: 1.8em;
+  color:white
+}
